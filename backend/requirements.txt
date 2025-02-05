@@ -1,0 +1,11 @@
+fastapi[standard]
+pydantic
+uvicorn 
+sqlalchemy
+psycopg2-binary
+python-dotenv
+geopy
+timezonefinder
+jwt
+bcrypt
+python-jose

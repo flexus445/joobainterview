@@ -1,0 +1,21 @@
+{
+    "english": "English",
+    "hebrew": "Hebrew",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "searchCountry": "Search Country",
+    "enterTime": "Enter Time",
+    "hour": "Hour",
+    "minute": "Minute",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "footer": "Feliks Roizman for Jooba Fullstack interview.",
+    "username": "Username",
+    "password": "Password",
+    "theClockIsTicking": "The clock is ticking",
+    "areYouReadyToGuess": "Are you ready to guess?",
+    "Wins": "Wins",
+    "Time": "Time",
+    "Timezone": "Timezone"
+}

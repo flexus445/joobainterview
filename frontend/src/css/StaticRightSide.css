@@ -1,0 +1,28 @@
+.static-content {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    gap: 0;
+}
+
+.small-image {
+    width: 300px;
+    height: auto;
+    margin-left: -170px;
+}
+
+
+.small-image:first-child {
+    margin-left: 0;
+}

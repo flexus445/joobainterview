@@ -1,0 +1,21 @@
+{
+    "english": "אנגלית",
+    "hebrew": "עברית",
+    "login": "התחברות",
+    "register": "הרשמה",
+    "logout": "התנתקות",
+    "searchCountry": "חפש מדינה",
+    "enterTime": "הכנס זמן",
+    "hour": "שעה",
+    "minute": "דקה",
+    "cancel": "ביטול",
+    "ok": "אישור",
+    "footer": "פליקס רויזמן לראיון פולסטאק בג'ובה.",
+    "username": "שם משתמש",
+    "password": "סיסמא",
+    "theClockIsTicking": "השעון מתקתק",
+    "areYouReadyToGuess": "מוכנים לנחש?",
+    "Wins": "ניצחונות",
+    "Time": "זמן",
+    "Timezone": "איזור זמן"
+}
